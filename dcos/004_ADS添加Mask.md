@@ -4,7 +4,7 @@
 
 直观的查看仿真结果 ，在仿真结果图添加Mask限值线
 
-<img src="images/0401.PNG" width="80%">
+<img src="images/0401.png" width="80%">
 
 ### 添加方法
 
